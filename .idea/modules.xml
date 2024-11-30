@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java21Study.iml" filepath="$PROJECT_DIR$/Java21Study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modulestudy/appfuncs/appfuncs.iml" filepath="$PROJECT_DIR$/modulestudy/appfuncs/appfuncs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modulestudy/appstart/appstart.iml" filepath="$PROJECT_DIR$/modulestudy/appstart/appstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleStdy/appfuncs/appfuncs.iml" filepath="$PROJECT_DIR$/moduleStdy/appfuncs/appfuncs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleStdy/appstart/appstart.iml" filepath="$PROJECT_DIR$/moduleStdy/appstart/appstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleStdy/appsupport/appsupport.iml" filepath="$PROJECT_DIR$/moduleStdy/appsupport/appsupport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleStdy/moduleStdy.iml" filepath="$PROJECT_DIR$/moduleStdy/moduleStdy.iml" />
     </modules>
   </component>
 </project>
